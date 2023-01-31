@@ -1,0 +1,11 @@
+@import url(//fonts.googleapis.com/earlyaccess/nanumpenscript.css);
+
+
+.main-en,
+.desc-en {
+    font: italic 1.2em "Fira Sans", serif;
+}
+h1,
+.desc-ko {
+     font-family: 'Nanum Pen Script', cursive;
+}
